@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>036D2DE3-D7C2-4C52-89E4-DDFB37B8E897</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Squares</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>73975EADAAF87103C0AA37922E73318C9057E1A0</key>
+		<string>https://github.com/fanslid/project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Squares/Squares.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>73975EADAAF87103C0AA37922E73318C9057E1A0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fanslid/project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>73975EADAAF87103C0AA37922E73318C9057E1A0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>73975EADAAF87103C0AA37922E73318C9057E1A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
