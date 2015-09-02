@@ -405,6 +405,7 @@
 				8480B54F1B8F94D400DA368D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8480B5501B8F94D400DA368D /* Build configuration list for PBXNativeTarget "SquaresTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				8480B5521B8F94D400DA368D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
